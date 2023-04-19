@@ -126,4 +126,11 @@ footer{
     margin-left: 20px
     
 }
+nav ul li p{
+    padding: 30px 3px;
+    font-weight: 700;
+    margin-left: 0px;
+
+   
+}
 }
